@@ -1,0 +1,21 @@
+# Proxy 策略
+
+## CV相关
+DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,thecvf.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,pytorch.org
+DOMAIN-SUFFIX,overleaf.com
+
+## Adult
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,t66y.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,kdw019.com
+
+## Elsevier 旗下
+DOMAIN,ees.elsevier.com
+
+## 告别出版商绑架
+DOMAIN-KEYWORD,sci-hub
